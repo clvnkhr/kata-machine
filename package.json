@@ -14,7 +14,7 @@
         "typescript": "^4.7.4"
     },
     "scripts": {
-        "test": "jest ArrayList BFSGraphMatrix BTBFS BTInOrder BTPostOrder BTPreOrder BinarySearchList BubbleSort CompareBinaryTrees DFSGraphList DFSOnBST DoublyLinkedList DijkstraList InsertionSort LRU LinearSearchList Map MazeSolver MergeSort MinHeap PrimsList Queue QuickSort SinglyLinkedList Stack Trie TwoCrystalBalls",
+        "test": "jest ArrayList BFSGraphMatrix BFSGraphList BTBFS BTInOrder BTPostOrder BTPreOrder BinarySearchList BubbleSort CompareBinaryTrees DFSGraphList DFSOnBST DoublyLinkedList DijkstraList InsertionSort LRU LinearSearchList Map MazeSolver MergeSort MinHeap PrimsList Queue QuickSort RingBuffer SinglyLinkedList Stack Trie TwoCrystalBalls",
         "clear": "node ./scripts/clear.js",
         "prettier": "prettier --write ./src",
         "generate": "node ./scripts/generate.js",

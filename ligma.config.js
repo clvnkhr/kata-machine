@@ -2,6 +2,7 @@ module.exports = {
     dsa: [
         "ArrayList",
         "BFSGraphMatrix",
+        "BFSGraphList",
         "BTBFS",
         "BTInOrder",
         "BTPostOrder",
@@ -23,6 +24,7 @@ module.exports = {
         "PrimsList",
         "Queue",
         "QuickSort",
+        "RingBuffer",
         "SinglyLinkedList",
         "Stack",
         "Trie",
